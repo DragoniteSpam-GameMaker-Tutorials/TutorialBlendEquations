@@ -1,0 +1,13 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"fnt_font","order":10,"path":"fonts/fnt_font/fnt_font.yy",},
+    {"name":"Object1","order":2,"path":"objects/Object1/Object1.yy",},
+    {"name":"Room1","order":1,"path":"rooms/Room1/Room1.yy",},
+    {"name":"spr_0000ff","order":2,"path":"sprites/spr_0000ff/spr_0000ff.yy",},
+    {"name":"spr_checkerboard","order":4,"path":"sprites/spr_checkerboard/spr_checkerboard.yy",},
+    {"name":"spr_duck","order":5,"path":"sprites/spr_duck/spr_duck.yy",},
+    {"name":"spr_ff0000","order":1,"path":"sprites/spr_ff0000/spr_ff0000.yy",},
+    {"name":"spr_tree","order":9,"path":"sprites/spr_tree/spr_tree.yy",},
+  ],
+}
